@@ -11,8 +11,8 @@ All the list of the products from the given name along with their rating, no_of_
 Data of the product is extracted and saved in the current directory as an excel file with respective product names.
 
 ### How does it work?
-Pre-Requisites: Download the Amazon.exe, chromedriver.exe and place it in the same folder.
-1. Run the .exe
+Pre-Requisites: make sure the chromedriver.exe is updated and placed in the same folder.
+1. Run the python file.
 2. Click on the Browse button and Choose the input text file from your desired location.
 3. A message box pops up with the name and location of the file you choose. Choose yes to proceed to extraction.
 4. After data extration is completed, a popup appears highlighting the completion.
